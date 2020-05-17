@@ -19,6 +19,7 @@ public class Ex7_4 {
 			
 			switch(ch) {
 			case '+':
+				System.out.printf("%d + %d = %d 입니다.\n", a, b, a+b); 
 				System.out.printf("%d + %d = %d 입니다.\n", a, b, a+b); break;
 			case '-':
 				System.out.printf("%d - %d = %d 입니다.\n", a, b, a-b); break;
